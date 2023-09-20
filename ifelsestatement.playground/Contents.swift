@@ -32,3 +32,41 @@ else
     print("I'm not so sure about coding in Swift")
 }
 //Class Portion end
+
+//Part 5 on my own
+
+//Problem Set 1
+var numberOne = 1
+var numberTwo = 2
+
+if numberOne > numberTwo
+{
+    print("True")
+}
+else
+{
+    print("False")
+}
+
+//Problem Set 2
+var stringOne = "Calico cats"
+var stringTwo = " are almost all female."
+
+
+if stringOne == "Calico cats"
+{
+    print(stringOne + stringTwo)
+}
+
+//Problem Set 3
+var boolOne = true
+var boolTwo = false
+
+if boolOne == boolTwo
+{
+    print("Google")
+}
+else
+{
+    print("Google about Swift")
+}
